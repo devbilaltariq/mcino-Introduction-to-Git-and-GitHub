@@ -1,0 +1,4 @@
+bilal@Bilal-2 mcino-Introduction-to-Git-and-GitHub % git branch -vv
+
+* bug-fix-typo 4be19f0 [origin/bug-fix-typo] Fix typo in simple interest script
+  main         75dcce6 [origin/main] Merge branch 'main' of https://github.com/devbilaltariq/mcino-Introduction-to-Git-and-GitHub
